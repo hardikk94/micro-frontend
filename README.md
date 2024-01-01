@@ -10,20 +10,18 @@ To scale with multiple teams in a micro services environment
 - Simplify updates
 - Independent deploy
 
-If you'd like more specifics, look into this article Click here
-📖 App architecture
 
-packages
+# packages
  - core-ui
  - app1
  - app2
  
-💻 Built With
-React
-TypeScript
-Webpack - module-federation
+# Built With
+- React
+- TypeScript
+- Webpack - module-federation
 
-🛠️ Installation Steps
+# Installation Steps
 - Clone the repository ⎘ git clone https://github.com/asif-simform/micro-frontend.git
 - Change the working directory 📂
 - cd micro-frontend
