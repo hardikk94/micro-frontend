@@ -22,7 +22,6 @@ To scale with multiple teams in a micro services environment
 - Webpack - module-federation
 
 # Installation Steps
-- Clone the repository ⎘ git clone https://github.com/asif-simform/micro-frontend.git
 - Change the working directory 📂
 - cd micro-frontend
 - Install dependency 🚚
